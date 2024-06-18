@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\0xPaulo\\code\\c#\\PrimeiraApi\\PrimeiraApi.csproj": {}
+    "C:\\Users\\0xPaulo\\code\\CS\\PrimeiraApiCS\\back\\PrimeiraApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\0xPaulo\\code\\c#\\PrimeiraApi\\PrimeiraApi.csproj": {
+    "C:\\Users\\0xPaulo\\code\\CS\\PrimeiraApiCS\\back\\PrimeiraApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\0xPaulo\\code\\c#\\PrimeiraApi\\PrimeiraApi.csproj",
+        "projectUniqueName": "C:\\Users\\0xPaulo\\code\\CS\\PrimeiraApiCS\\back\\PrimeiraApi.csproj",
         "projectName": "PrimeiraApi",
-        "projectPath": "C:\\Users\\0xPaulo\\code\\c#\\PrimeiraApi\\PrimeiraApi.csproj",
+        "projectPath": "C:\\Users\\0xPaulo\\code\\CS\\PrimeiraApiCS\\back\\PrimeiraApi.csproj",
         "packagesPath": "C:\\Users\\0xPaulo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\0xPaulo\\code\\c#\\PrimeiraApi\\obj\\",
+        "outputPath": "C:\\Users\\0xPaulo\\code\\CS\\PrimeiraApiCS\\back\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\0xPaulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
